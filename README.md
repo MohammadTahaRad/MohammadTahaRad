@@ -1,7 +1,6 @@
 <div align="left">
 
-<img src="<img src="taha-typing.gif" alt="Typing intro" />
-" alt="Typing intro" />
+<img src="https://s34.picofile.com/file/8488040150/Recording_2025_11_12_182243.gif" alt="Typing intro" />
 
 
 ---
