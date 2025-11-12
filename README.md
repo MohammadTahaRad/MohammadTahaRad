@@ -1,9 +1,7 @@
-<!-- Intro with typing animation -->
-<p align="left">
-  <a href="https://github.com/MohammadTahaRad">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00FFFF&center=false&vCenter=true&width=600&lines=Hi+there!+👋;I'm+Taha+Rad;Front-End+Developer+%7C+JavaScript+Enthusiast;">
-  </a>
-</p>
+<!-- Animated Typing Text -->
+<img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=00FFFF&vCenter=true&repeat=true&width=435&lines=Hi+there!+👋;I'm+Taha+Rad;Front-End+Developer;JavaScript+Enthusiast" alt="Typing SVG" />
+
+<br clear="left"/>
 
 ---
 
