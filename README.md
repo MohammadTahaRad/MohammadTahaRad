@@ -1,7 +1,28 @@
-<!-- Animated Typing Text -->
-<img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&color=00FFFF&vCenter=true&repeat=true&width=435&lines=Hi+there!+👋;I'm+Taha+Rad;Front-End+Developer;JavaScript+Enthusiast" alt="Typing SVG" />
+<div align="left">
 
-<br clear="left"/>
+<style>
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+@keyframes blink {
+  50% { border-color: transparent }
+}
+
+.typing {
+  font-family: 'Fira Code', monospace;
+  color: #00ffff;
+  font-size: 26px;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 3px solid #00ffff;
+  width: 0;
+  animation: typing 3s steps(30, end) infinite alternate, blink .8s step-end infinite;
+}
+</style>
+
+<p class="typing">Hi there! 👋 I'm Taha Rad | Front-End Developer</p>
 
 ---
 
@@ -36,3 +57,5 @@ Right now, I’m working on strengthening my **JavaScript** and **React** skills
     <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+</div>
