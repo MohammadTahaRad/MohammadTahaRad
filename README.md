@@ -1,28 +1,8 @@
 <div align="left">
 
-<style>
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
+<img src="<img src="taha-typing.gif" alt="Typing intro" />
+" alt="Typing intro" />
 
-@keyframes blink {
-  50% { border-color: transparent }
-}
-
-.typing {
-  font-family: 'Fira Code', monospace;
-  color: #00ffff;
-  font-size: 26px;
-  white-space: nowrap;
-  overflow: hidden;
-  border-right: 3px solid #00ffff;
-  width: 0;
-  animation: typing 3s steps(30, end) infinite alternate, blink .8s step-end infinite;
-}
-</style>
-
-<p class="typing">Hi there! 👋 I'm Taha Rad | Front-End Developer</p>
 
 ---
 
