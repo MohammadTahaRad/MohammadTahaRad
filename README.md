@@ -14,6 +14,7 @@
 
 ### 🎯 About Me
 
+<div>
 **💻 Role:** Front-End Developer  
 **🔥 Passion:** Building beautiful UIs, Clean Code, User Experience  
 **🎯 Current Focus:** React, JavaScript ES6+, Tailwind CSS  
@@ -22,6 +23,8 @@
 🌱 I'm passionate about creating **pixel-perfect**, **responsive**, and **interactive** web experiences  
 💡 Always learning new technologies and design patterns  
 🎨 I believe good code is like good design — simple, elegant, and functional
+</div>
+
 
 ---
 
@@ -80,18 +83,18 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammadTahaRad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadTahaRad&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </p>
 
 ---
 
 ### 🎨 Current Projects
 
+<div>
 🔭 Working on: **Modern React Applications**  
 🌱 Learning: **Advanced React Patterns & State Management**  
 👯 Looking to: **Collaborate on Open Source Projects**  
 💬 Ask me about: **HTML, CSS, JavaScript, React**
-
+<div/>
 ---
 
 ### 📫 Let's Connect!
