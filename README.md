@@ -13,14 +13,11 @@
 ---
 
 ### 🎯 About Me
-```javascript
-const mohammadTaha = {
-    role: "Front-End Developer",
-    passion: ["Building beautiful UIs", "Clean Code", "User Experience"],
-    currentFocus: ["React", "JavaScript ES6+", "Tailwind CSS"],
-    funFact: "I turn coffee into code ☕️"
-};
-```
+
+**💻 Role:** Front-End Developer  
+**🔥 Passion:** Building beautiful UIs, Clean Code, User Experience  
+**🎯 Current Focus:** React, JavaScript ES6+, Tailwind CSS  
+**☕ Fun Fact:** I turn coffee into code!
 
 🌱 I'm passionate about creating **pixel-perfect**, **responsive**, and **interactive** web experiences  
 💡 Always learning new technologies and design patterns  
@@ -82,12 +79,12 @@ const mohammadTaha = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammadTahaRad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadTahaRad&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammadTahaRad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadTahaRad&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadTahaRad&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MohammadTahaRad&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
 
 ---
