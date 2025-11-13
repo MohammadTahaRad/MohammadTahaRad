@@ -6,7 +6,7 @@
 ---
 
 ### 👋 Who I Am
-Hey! I'm **Taha Rad**, a passionate **Front-End Developer** who loves building beautiful, interactive, and responsive web experiences.  
+Hey! I'm **Seyed Mohammad Taha**, a passionate **Front-End Developer** who loves building beautiful, interactive, and responsive web experiences.  
 I’m always exploring new technologies and improving my creative coding skills to design modern and smooth user interfaces.
 
 ---
