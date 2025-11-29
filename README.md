@@ -1,7 +1,6 @@
 <div align="left"> 
 
-<img src="https://raw.githubusercontent.com/MohammadTahaRad/MohammadTahaRad/main/507331223-54dc1f7a-f327-43ab-ae9c-58c7421eee39.gif
-" />
+<img src="https://raw.githubusercontent.com/MohammadTahaRad/MohammadTahaRad/main/507331223-54dc1f7a-f327-43ab-ae9c-58c7421eee39.gif"/>
 
 <hr/>
 
