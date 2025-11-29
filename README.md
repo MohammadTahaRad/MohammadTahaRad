@@ -32,8 +32,6 @@ Right now, I’m working on strengthening my **JavaScript** and **React** skills
 
 ### 📬 Contact Me
 
-### 📬 Contact Me
-
 <p align="left">
   <a href="https://t.me/MohammadTahaRad" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
