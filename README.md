@@ -1,4 +1,4 @@
-<div align="left">
+<div align="left"> 
 
 <img src="https://s34.picofile.com/file/8488040150/Recording_2025_11_12_182243.gif%22%20alt=%22Typing%20intro" />
 
@@ -21,7 +21,7 @@ Right now, I’m working on strengthening my **JavaScript** and **React** skills
 ### ⚙️ My Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,linux,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,vscode,linux,figma" />
 </p>
 
 ---
