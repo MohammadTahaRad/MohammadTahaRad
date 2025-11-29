@@ -5,9 +5,13 @@
 <hr/>
 
 ### 👋 Who I Am
-
-Hey! I'm **Seyed Mohammad Taha**, a passionate **Front-End Developer** who loves building beautiful, interactive, and responsive web experiences.  
+ی
+Hey! I'm Seyed Mohammad Taha, a passionate Front-End Developer who loves building beautiful, interactive, and responsive web experiences.
 I’m always exploring new technologies and improving my creative coding skills to design modern and smooth user interfaces.
+
+I’m deeply passionate about big projects and big experiences — challenges motivate me, and I love pushing my limits to learn more and create better.
+If you're looking for someone responsible, committed, and ready to take ownership of tasks,
+you can count on me.
 
 ---
 
