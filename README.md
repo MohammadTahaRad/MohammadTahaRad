@@ -1,6 +1,6 @@
 <div align="left">
 
-<img src="https://s34.picofile.com/file/8488040150/Recording_2025_11_12_182243.gif" alt="Typing intro" />
+<img src="https://s34.picofile.com/file/8488040150/Recording_2025_11_12_182243.gif%22%20alt=%22Typing%20intro" />
 
 <hr/>
 
