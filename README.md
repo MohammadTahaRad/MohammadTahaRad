@@ -32,20 +32,23 @@ Right now, I’m working on strengthening my **JavaScript** and **React** skills
 
 ### 📬 Contact Me
 
-<p align="left">
+### 📬 Contact Me
 
-  <a href="https://t.me/MohammadTahaRad" target="_blank">
+<p align="left">
+  <a href="https://t.me/MohammadTahaRad" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-
-  <span style="font-size: 1rem; font-weight: bold; margin-left: 10px;">
-    Email: <a href="mailto:Programming328@gmail.com">Programming328@gmail.com</a>
-  </span>
 
   <a href="https://github.com/MohammadTahaRad" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
 
+<p align="left" style="margin-top: 5px;">
+
+  <span style="font-size: 1rem; font-weight: bold;">
+    Email: <a href="mailto:Programming328@gmail.com">Programming328@gmail.com</a>
+  </span>
 </p>
 
 <div align="center">
