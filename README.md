@@ -17,8 +17,8 @@ you can count on me.
 
 ### 💻 What I Do
 
-I focus on **Front-End development** — turning ideas and designs into real, functional websites.  
-Right now, I’m working on strengthening my **JavaScript** and **React** skills while also learning to create clean, efficient UI components with **Tailwind CSS**.
+I focus on Front-End development — turning ideas and designs into real, functional websites.
+I’m always working on strengthening my skills, especially in JavaScript, React, and building clean, efficient UI components with Tailwind CSS.
 
 ---
 
