@@ -2,34 +2,47 @@
 <img src="https://raw.githubusercontent.com/MohammadTahaRad/MohammadTahaRad/main/507331223-54dc1f7a-f327-43ab-ae9c-58c7421eee39.gif"/>
 <hr/>
 
-### 👋 Who I Am
+###  Who I Am
 Hey! I'm Seyed Mohammad Taha, a passionate Front-End Developer who loves building beautiful, interactive, and responsive web experiences.
 I'm always exploring new technologies and improving my creative coding skills to design modern and smooth user interfaces.
 I'm deeply passionate about big projects and big experiences — challenges motivate me, and I love pushing my limits to learn more and create better.
 If you're looking for someone responsible, committed, and ready to take ownership of tasks,
 you can count on me.
 
-I’m also currently expanding my knowledge in **Cybersecurity**, focusing on web security fundamentals, networking basics, and understanding how secure applications are built.
+I'm also expanding my skills in **Cybersecurity**, focusing on web application security, vulnerability awareness, networking fundamentals, and learning how secure systems are built and tested.
 
 <a href="http://www.coffeete.ir/MohammadTaha">
        <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
 </a>
 
-### 💻 What I Do
+###  What I Do
 I focus on Front-End development — turning ideas and designs into real, functional websites.
 I'm always working on strengthening my skills, especially in JavaScript, React, and building clean, efficient UI components with Tailwind CSS.
-At the same time, I'm learning how web security works to build safer and more reliable applications.
+At the same time, I’m actively learning **Cybersecurity concepts for web applications**, including how to identify common vulnerabilities and build more secure front-end systems.
 
 ---
 
-### ⚙️ My Skills
+###  My Skills
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,vscode,linux,figma" />
 </p>
 
 ---
 
-### 📬 Contact Me
+###  Cybersecurity Focus
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,bash" />
+</p>
+
+- Web Security Basics  
+- OWASP Top 10 Awareness  
+- Networking Fundamentals  
+- Secure Coding Practices  
+- Bug Bounty Learning Path  
+
+---
+
+###  Contact Me
 <p align="left">
   <a href="https://t.me/MohammadTahaRad" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -38,6 +51,7 @@ At the same time, I'm learning how web security works to build safer and more re
     <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
 <p align="left" style="margin-top: 5px;">
   <span style="font-size: 1rem; font-weight: bold;">
     Email: <a href="mailto:Programming328@gmail.com">seyedmohammadtaharad@gmail.com</a>
