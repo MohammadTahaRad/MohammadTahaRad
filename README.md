@@ -37,7 +37,7 @@ I'm always working on strengthening my skills, especially in JavaScript, React, 
 </p>
 <p align="left" style="margin-top: 5px;">
   <span style="font-size: 1rem; font-weight: bold;">
-    Email: <a href="mailto:Programming328@gmail.com">Programming328@gmail.com</a>
+    Email: <a href="mailto:Programming328@gmail.com">seyedmohammadtaharad@gmail.com</a>
   </span>
 </p>
 
