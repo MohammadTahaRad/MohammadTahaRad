@@ -9,6 +9,8 @@ I'm deeply passionate about big projects and big experiences — challenges moti
 If you're looking for someone responsible, committed, and ready to take ownership of tasks,
 you can count on me.
 
+I’m also currently expanding my knowledge in **Cybersecurity**, focusing on web security fundamentals, networking basics, and understanding how secure applications are built.
+
 <a href="http://www.coffeete.ir/MohammadTaha">
        <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
 </a>
@@ -16,6 +18,7 @@ you can count on me.
 ### 💻 What I Do
 I focus on Front-End development — turning ideas and designs into real, functional websites.
 I'm always working on strengthening my skills, especially in JavaScript, React, and building clean, efficient UI components with Tailwind CSS.
+At the same time, I'm learning how web security works to build safer and more reliable applications.
 
 ---
 
